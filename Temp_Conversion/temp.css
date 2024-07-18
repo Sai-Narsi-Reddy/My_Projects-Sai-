@@ -1,0 +1,22 @@
+#div1 {
+  flex-direction: column;
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 10px;
+  background-color: aqua;
+  padding-bottom: 10px;
+}
+#div2 {
+  font-size: 1.5em;
+  margin-top: 10px;
+}
+#button1 {
+  font-size: 0.8em;
+  margin-top: 10px;
+  margin-left: 15%;
+  background-color: hsl(240, 12%, 60%);
+}
