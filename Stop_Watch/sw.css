@@ -1,0 +1,21 @@
+#box1 {
+  border: 2px solid black;
+  display: flex;
+
+  justify-content: center;
+  margin-left: 30vw;
+  margin-right: 30vw;
+  margin-top: 40vh;
+  align-items: center;
+}
+.button {
+  margin: 5px;
+  font-size: 1em;
+  background-color: aqua;
+}
+.button:hover {
+  background-color: blue;
+}
+#h1 {
+  align-items: center;
+}
